@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="limesurvey-regression" verbose="1">
+	<test name="reg-test">
+		<classes>
+			<class name="com.mydemo.utilities.RegressionTest1"></class>
+		</classes>
+	</test>
+</suite>
